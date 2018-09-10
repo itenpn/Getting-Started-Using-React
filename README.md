@@ -9,16 +9,16 @@ order: 1
 #Getting Started Using React
 
 **Table of contents:**
--[I Installing React](#installing-react)
--[II First Steps With React](#first-steps-with-react)
--[III Making Your Website Appear on Screen](#making-your-website-appear-on-screen)
--[IV Creating React Components](#creating-react-components)
--[V Using JSX](#using-jsx)
--[VI How to use CSS](#how-to-use-css)
--[VII Using Props](#using-props)
--[VIII Using State](#using-state)
--[IX General React Tips](#general-react-tips)
--[X Finishing Your Website](#finishing-your-website)
+- [I Installing React](#installing-react)
+- [II First Steps With React](#first-steps-with-react)
+- [III Making Your Website Appear on Screen](#making-your-website-appear-on-screen)
+- [IV Creating React Components](#creating-react-components)
+- [V Using JSX](#using-jsx)
+- [VI How to use CSS](#how-to-use-css)
+- [VII Using Props](#using-props)
+- [VIII Using State](#using-state)
+- [IX General React Tips](#general-react-tips)
+- [X Finishing Your Website](#finishing-your-website)
 
 ## Installing React
 
