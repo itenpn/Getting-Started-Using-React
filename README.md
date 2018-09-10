@@ -24,9 +24,10 @@ order: 1
 ## Assumptions
 
 ### 1. You already sort of know how JavaScript works
-### 2. You understand how to access development tools
-### 3. You have a willingness to problem solve
-### 4. You have a willingness to start hacking
+### 2. You already know how to use HTML and CSS
+### 3. You understand how to access development tools
+### 4. You have a willingness to problem solve
+### 5. You have a willingness to start hacking
 
 
 ## Installing React
