@@ -268,7 +268,8 @@ $ npm run build
 ```
 6. Enter the following commands to add your code to github
 ```
-# If you haven’t used git before, it will ask you to sign in, so do that when it gives you prompts instead of going to the next step.
+# If you haven’t used git before, it will ask you to sign in,
+# so do that when it gives you prompts instead of going to the next step.
 $ git init
 # The period is NOT a typo
 $ git add .
