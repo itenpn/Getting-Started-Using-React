@@ -9,6 +9,7 @@ order: 1
 # Getting Started Using React
 
 **Table of contents:**
+- [0 Assumptions](#assumptions)
 - [I Installing React](#installing-react)
 - [II First Steps With React](#first-steps-with-react)
 - [III Making Your Website Appear on Screen](#making-your-website-appear-on-screen)
@@ -19,6 +20,13 @@ order: 1
 - [VIII Using State](#using-state)
 - [IX General React Tips](#general-react-tips)
 - [X Finishing Your Website](#finishing-your-website)
+
+## Assumptions
+
+### 1. You already sort of know how JavaScript works
+### 2. You understand how to access development tools
+### 3. You have a willingness to problem solve
+### 4. You have a willingness to start hacking
 
 
 ## Installing React
@@ -251,6 +259,8 @@ order: 1
   - This helps you stay organized and creates a common theme
 ### You can add your own backend code to your React Website
   - Because everyone has a different preference, I will leave this up to you to figure out on your own, but this [tutorial](https://codeburst.io/creating-a-full-stack-web-application-with-python-npm-webpack-and-react-8925800503d9) starts you off on how to add python to react.
+### Ask for help!
+   - The [Hack Club Slack](https://hackclub.slack.com/messages) is a fantastic resource
 
 
 ## Finishing Your Website
