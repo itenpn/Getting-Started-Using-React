@@ -204,17 +204,23 @@ order: 1
 ### State tells React when to update a website
   - Anytime state changes, `render()` is called
   - Use states to change the design of your Component
+### Accessing a state is easy
+   ```javascript
+   this.state.stateName
+   ```
+   - states can be any data type because they are also a JS object
+   - refer to [How to Use CSS](#how-to-use-css) for more information on objects
 ### To set an initial state, you must add a constructor
   ```javascript
   constructor(props){
     super(props);
-    this.state = {};
+    this.state = {stateName: data};
   }
   ```
   - Inside of the curly brackets above, create a JS object like normal
 ### To change a state, you must use this.setState()
   ```javascript
-  this.setState({});
+  this.setState({stateName: data});
   ```
   - You can pass an object that only changes one state of the component
 ### To change a state within JSX, you must use methods
@@ -222,8 +228,9 @@ order: 1
   ```javascript
   methodName(e){  // you can add more data with methodName(e, data1, data2, etc...
     e.preventDefault(); //prevents the method from running without an event
-    this.setState({
-      //add state(s) here
+    this.setState({ //Can accept one or more states, even if you have multiple states
+      state1: data1,
+      state2: data2
     });
   }
   ```
